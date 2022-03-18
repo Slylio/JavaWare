@@ -1,0 +1,66 @@
+Test
+-- listing properties --
+sun.desktop=gnome
+awt.toolkit=sun.awt.X11.XToolkit
+java.specification.version=11
+sun.cpu.isalist=
+sun.jnu.encoding=UTF-8
+java.class.path=/home/jeremy/Documents/TPRansomware/R...
+java.vm.vendor=Ubuntu
+sun.arch.data.model=64
+java.vendor.url=https://ubuntu.com/
+user.timezone=Europe/Paris
+os.name=Linux
+java.vm.specification.version=11
+sun.java.launcher=SUN_STANDARD
+user.country=FR
+sun.boot.library.path=/usr/lib/jvm/java-11-openjdk-amd64/lib
+sun.java.command=DumbRansomware.DumbRansomware
+jdk.debug=release
+sun.cpu.endian=little
+user.home=/home/jeremy
+user.language=fr
+java.specification.vendor=Oracle Corporation
+java.version.date=2021-10-19
+java.home=/usr/lib/jvm/java-11-openjdk-amd64
+file.separator=/
+java.vm.compressedOopsMode=32-bit
+line.separator=
+
+java.specification.name=Java Platform API Specification
+java.vm.specification.vendor=Oracle Corporation
+java.awt.graphicsenv=sun.awt.X11GraphicsEnvironment
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+java.runtime.version=11.0.13+8-Ubuntu-0ubuntu1.20.04
+user.name=jeremy
+path.separator=:
+os.version=5.13.0-30-generic
+java.runtime.name=OpenJDK Runtime Environment
+file.encoding=UTF-8
+java.vm.name=OpenJDK 64-Bit Server VM
+java.vendor.url.bug=https://bugs.launchpad.net/ubuntu/+so...
+java.io.tmpdir=/tmp
+java.version=11.0.13
+user.dir=/home/jeremy/Documents/TPRansomware/R...
+os.arch=amd64
+java.vm.specification.name=Java Virtual Machine Specification
+java.awt.printerjob=sun.print.PSPrinterJob
+sun.os.patch.level=unknown
+java.library.path=/usr/java/packages/lib:/usr/lib/x86_6...
+java.vm.info=mixed mode, sharing
+java.vendor=Ubuntu
+java.vm.version=11.0.13+8-Ubuntu-0ubuntu1.20.04
+sun.io.unicode.encoding=UnicodeLittle
+java.class.version=55.0
+
+--- Liste réseaux ---
+Display name : enp0s3
+Name : enp0s3
+     InetAddress: /2a01:cb08:8391:3600:e74b:9532:4ea:ab4e%enp0s3
+     InetAddress: /2a01:cb08:8391:3600:59d:db9e:7a2a:7735%enp0s3
+     InetAddress: /fe80:0:0:0:dab2:b093:e27b:6b5b%enp0s3
+     InetAddress: /192.168.1.20
+Display name : lo
+Name : lo
+     InetAddress: /0:0:0:0:0:0:0:1%lo
+     InetAddress: /127.0.0.1
